@@ -13,12 +13,6 @@
 
 <h3 align="center">DAOInsure aims to solve the problem of transparency with respect to conventional Insurance reimbursements.</h3>
 
-<p align="center">
-    <a href="">View Demo</a>
-    ·
-    <a href="https://github.com/DAOInsure/DAOInsure/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/DAOInsure/DAOInsure/issues">Request Feature</a>
   </p>
 
 ##  Features
