@@ -66,20 +66,3 @@ We have used the following technologies for this project:
 * [Nivo](https://nivo.rocks/) (nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries.)
 * [GCP](https://cloud.google.com/gcp)(We used a serverless function of our external adapter on GCP)
 
-## Getting Started
-
-### Clone the repo:
-
-`git clone https://github.com/DAOInsure/DAOInsure.git && cd DAOInsure`
-
-### Run the Project
-
-
-Once you are in the project directory nstall the required dependencies using a package manager `yarn` or `npm`.
-
-`yarn add` or `npm install`
-
-`yarn start` or `npm start`
-
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
