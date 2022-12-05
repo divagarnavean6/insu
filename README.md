@@ -4,11 +4,6 @@
 <a align="center" href="https://github.com/DAOInsure/DAOInsure">
   <img src="./public/assets/github.png" alt="Logo" width="638" height="158">
 </a>
-</p>
-<h6 align="center">Built at ETHIndia ETHOdyssey 2021 by DevFolio</h6>
-<p align="center">
-<img align="center" src="./public/assets/ETHIndia.svg" alt="Logo" width="120" height="120">
-<img src="./public/assets/devfolio.png" alt="Logo">
 </p> 
  
   <p align="center"><a href="">Watch Demo Video on YouTube</a></p>
